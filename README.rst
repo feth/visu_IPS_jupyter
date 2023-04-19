@@ -16,3 +16,16 @@ Source de donnée
 ################
 
 Json récupéré `ici <https://data.education.gouv.fr/explore/dataset/fr-en-ips-ecoles-ap2022/export/?disjunctive.academie&disjunctive.code_du_departement&disjunctive.departement&disjunctive.uai&disjunctive.code_insee_de_la_commune&disjunctive.nom_de_la_commune&disjunctive.secteur>`_ (et mis en cache dans ce dépôt sous le nom ```fr-en-ips-ecoles-ap2022.json```.
+
+Comment utiliser un "notebook jupyter" ?
+########################################
+
+Pour la visualisation
+----------------------
+
+Rien à faire, c'est sur `nbviewer <https://nbviewer.org/github/feth/visu_IPS_jupyter/blob/main/bargraphs.ipynb>`_ par exemple.
+
+Pour ajouter ou modifier des graphes
+------------------------------------
+
+Il vous faut `Jupyter <https://jupyterlab.readthedocs.io/en/stable/>`_, et lancer le fichier .ipnb, et faire un peu de Python.
