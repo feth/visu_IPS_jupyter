@@ -23,7 +23,7 @@ Comment utiliser un "notebook jupyter" ?
 Pour la visualisation
 ----------------------
 
-Rien à faire, c'est sur `nbviewer <https://nbviewer.org/github/feth/visu_IPS_jupyter/blob/main/bargraphs.ipynb>`_ par exemple.
+Rien à faire, c'est sur `nbviewer <https://nbviewer.org/github/feth/visu_IPS_jupyter/blob/main/maps.ipynb>`_ par exemple.
 
 Pour ajouter ou modifier des graphes
 ------------------------------------
